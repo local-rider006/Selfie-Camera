@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/manacl-php/Desktop/SelfieCamera/aFileChooser/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/manacl-php/Desktop/SelfieCamera/aFileChooser/build/intermediates/packaged_res/debug/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        }
+    ]
+}

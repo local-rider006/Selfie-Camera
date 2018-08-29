@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/manacl-php/Desktop/SelfieCamera/aFileChooser/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/home/manacl-php/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/0f6a483a79c243269e39e658f7660cc9/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "250",
+                        "endColumns": "100",
+                        "endOffsets": "346"
+                    }
+                },
+                {
+                    "source": "/home/manacl-php/Desktop/SelfieCamera/aFileChooser/build/intermediates/packaged_res/debug/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,172,250",
+                        "endColumns": "60,55,77,86",
+                        "endOffsets": "111,167,245,332"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,172,351",
+                        "endColumns": "60,55,77,86",
+                        "endOffsets": "111,167,245,433"
+                    }
+                }
+            ]
+        }
+    ]
+}

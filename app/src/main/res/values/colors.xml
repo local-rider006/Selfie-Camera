@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mdtp_transparent_black">#7f000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightGreen">#1D9455</color>
+    <color name="colorNew">#3B4655</color>
+</resources>

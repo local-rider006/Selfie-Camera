@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/manacl-php/Desktop/SelfieCamera/aFileChooser/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ky/values-ky.xml",
+            "map": [
+                {
+                    "source": "/home/manacl-php/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/0f6a483a79c243269e39e658f7660cc9/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
